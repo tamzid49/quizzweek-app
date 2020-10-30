@@ -1,1 +1,4 @@
-var a = "";
+<script>
+  var a = "";
+  alert("hi");
+</script>
