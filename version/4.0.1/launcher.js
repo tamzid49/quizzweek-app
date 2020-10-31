@@ -3,3 +3,4 @@ if(window.localStorage["launcher.js"]){
 }else{
   alert("no");
 }
+
