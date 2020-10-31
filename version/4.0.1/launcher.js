@@ -1,2 +1,5 @@
-var a = "";
-alert("hi");
+if(window.localStorage["launcher.js"]){
+   alert("yes");
+}else{
+  alert("no");
+}
