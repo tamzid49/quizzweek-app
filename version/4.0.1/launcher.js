@@ -1,4 +1,2 @@
-<script>
-  var a = "";
-  alert("hi");
-</script>
+var a = "";
+alert("hi");
